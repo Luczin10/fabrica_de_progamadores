@@ -1,0 +1,36 @@
+@charset "UTF-8";
+@import url('https://fonts.googleapis.com/css2?family=Mozilla+Headline:wght@200..700&display=swap');
+    body{
+    background-color: #15C38F;
+}
+h1{
+    color: aliceblue;
+    background-color: #26332F;
+    text-align: center;
+    font-family: m;
+}
+nav{
+    background-color:#4B6960;
+    height: 20px;
+}
+a{
+    color: aliceblue;
+    border-color: #000000;
+    text-decoration: none;
+}
+
+header{
+    background-color: #93F5D8;
+}
+p{
+    text-align: center;
+}
+a:active{
+    color: black;
+}
+a:visited{
+    color: aliceblue;
+}
+a:hover{
+    text-decoration: underline;
+}
